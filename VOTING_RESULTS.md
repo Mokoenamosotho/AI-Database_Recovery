@@ -4,8 +4,8 @@ This document summarizes the community engagement metrics for the Hospital Datab
 
 | Metric          | Count      |
 |-----------------|------------|
-| ⭐ Stars        |            |
-| 🍴 Forks        |            |
+| ⭐ Stars        |   10       |
+| 🍴 Forks        |   10       |
 | 👀 Watchers     |            |
 | 🐞 Open Issues  |            |
 | ✅ Closed Issues|            |
